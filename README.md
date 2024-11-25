@@ -13,11 +13,8 @@ This project introduces a compact, palm-sized, remote-controlled vehicle (RCV) t
   **47 MHz Radio Frequency**: This frequency band is commonly used for RC vehicles, ensuring reliable communication between the controller and the vehicle.
   
  **Advanced Network Disruption**: The RCV incorporates a versatile wireless network attack toolkit, enabling it to perform:
-      
-      **De-authentication Attacks**: Disrupts active WiFi sessions by sending spoofed de-authentication frames.
-      
+      **De-authentication Attacks**: Disrupts active WiFi sessions by sending spoofed de-authentication frames
       **Beacon Flooding Attacks**: Overwhelms wireless networks with fake access points, causing interference and denial of service.
-      
       **Probe Request Flooding Attacks**: Identifies vulnerable devices on a network by sending a large number of probe requests.
       
 ##Potential Applications:
