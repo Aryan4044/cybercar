@@ -2,6 +2,9 @@
 A Miniaturized Remote-Controlled Vehicle with Advanced Network Disruption Capabilities
 Project Summary: A Miniaturized Remote-Controlled Vehicle with Advanced Network Disruption Capabilities
 
+![f6097deb-7574-47a7-86e0-3fe20e62d447](https://github.com/user-attachments/assets/e27b418e-7172-408d-a840-6c0d0660f3fe)
+
+
 This project introduces a compact, palm-sized, remote-controlled vehicle (RCV) that operates on a 47 MHz radio frequency. The primary goal is to demonstrate the feasibility of a miniature RCV with advanced network disruption capabilities.
 
 Key Features:
