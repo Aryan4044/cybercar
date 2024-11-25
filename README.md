@@ -41,6 +41,16 @@ you can reffer the diagram bilow :-
 
 
 
+next step youll have to do the same with rc -transmitter and audio reciever !
+here's a diagram for that :-
+![WhatsApp Image 2024-11-25 at 11 26 12 PM rotated](https://github.com/user-attachments/assets/001325f7-5096-48da-a29c-3b2a98735f2c)
+
+
+and you are all set ! 
+place these components and you are good to go here !!
+
+
+
 
 
 
