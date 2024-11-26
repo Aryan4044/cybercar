@@ -35,7 +35,7 @@ IMPORTANT :- this code is made/tested on node mcu esp 8266 V2 ! if you have late
 
 
 the next step is to wire up your node mcu and all electroncis (battery,bms,transmitter,rc controller,voltage stablizer/booster,moters and node mcu which is the heart of this project)
-you can reffer the diagram bilow :-
+you can reffer the diagram below :-
 ![WhatsApp Image 2024-11-25 at 8 58 12 PM rotated rotated](https://github.com/user-attachments/assets/53d1fb12-6caa-4b86-832b-fbb7fd3e20a8)
 
 
